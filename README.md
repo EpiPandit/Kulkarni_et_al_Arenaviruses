@@ -1,21 +1,24 @@
-# Climate-driven models for Changing risk of arenavirus spillover in South America
+# Predicted climate-driven changes in zoonotic risk of arenaviral hemorrhagic fevers in South America
 
 ## Author list
 
-### Kulkarni Pranav S., Flores Nuri Y., Uhart Marcy, Ross Carmen, Jian Andie H., Pandit Pranav S.
+### Pranav S. Kulkarni (1), Nuri Y. Flores-Perez (1), Andie H. Jian (1), Brian H. Bird (2), Christine K. Johnson (2), Marcela Uhart (2),(3), Pranav S. Pandit (1).
+ - (1) Department of Population Health and Reproduction, School of Veterinary Medicine, University of California, Davis
+ - (2) One Health Institute, School of Veterinary Medicine, University of California, Davis
+ - (3) Karen C. Drayer Wildlife Center, School of Veterinary Medicine, University of California, Davis
 
-1.  Department of Population Health and Reproduction, School of Veterinary medicine, University of California, Davis
-2.  Karen C. Drayer Wildlife Center, One Health Institute, School of Veterinary Medicine, University of California, Davis
 
 ## Description
 
 This repository contains the source code and examples of the analyses conducted for manuscript of Kulkarni et al.
 
-## Summary
+## Abstract
+The long-term impacts of climate change on the risk of zoonotic disease outbreaks such as New World arenaviral hemorrhagic fevers are poorly understood and understudied. Endemic areas and their surrounding regions are expected to undergo significant changes in both climate patterns and anthropogenic activities. Through this study we aimed to advance insight into the impact of climate change on the spillover risks of neglected high-impact zoonotic diseases such as New World Arenaviruses (NWAs) in South America. A robust predictive modeling framework that integrated force-of-infection models with comprehensive species distribution algorithms was developed for understanding the effects of climate change on zoonotic disease risk.
+We predicted a substantial increase in the risk of NWA spillover from known rodent reservoirs to humans in the next two decades. Risk was predicted to increase with  climate change and related anthropogenic factors regardless of the severity of the projected climate change scenario modeled. For all NWAs studied, reservoir habitats were predicted to spread out in the future, increasing the chance of human-rodent interactions and consequently the spillover of NWA infections. Depending on the reservoir species, habitat changes were found to be sensitive to the long-term changes in varying climate and land-use features. 
 
-New World Arenaviruses (NWA) cause viral hemorrhagic fever in humans, with high potential burden in terms of mortality and morbidity in susceptible populations. Primarily a spillover risk from rodent reservoirs to humans, the risk of infection is significantly affected by distribution of the rodent hosts and the movement patterns of humans. The aim of this study was to model the climate-change driven risk of zoonotic spillover of NWA by combining (i) species distribution modelling (SDM) of the rodent reservoir species (*Calomys musculinus, Zygodotomys brevicauda, Sigmodon alstoni, etc.*) with (ii) disease transmission modelling in humans. SDMs were developed using ensembles of four tree-based machine learning techniques trained on current bioclimatic, land use, vegetation and landscape data of the area under study. By combining the SDM with spatial information on the human population density of the area, current hotspots for potential outbreaks were identified. Shared Socioeconomic Pathways (SSP) of moderate and extremely negative type (SSP2.45 and SSP5.85 resp.) projections of climate change for years 2041 to 2060 were used as future scenarios for climate-change. Based on the two scenarios, predicted changes in the risk patterns and hotspots for zoonotic outbreaks were investigated. **SDMs of rodent reservoirs of Junin virus in Argentina, Machupo virus in Bolivia and Guanarito virus in Venezuela and Colombia** yielded high precision in predicting species habitats ranging from 83% to 91%. Our study provides valuable insights into potential shifts in rodenthabitat suitability and patterns. Using the patterns for species presence discerned from SDMs, the density dependent Force-Of-Infection (FOI) were calculated for each rodent reservoir of the three zoonotic arena viruses. The top 10% percentile of FOI distributions (termed potential hotspots for outbreaks; both current and predicted in the future) were investigated for their potential sensitvity to change in climate or environmental conditions.
+## Keywords
+Mammarenavirus, rodent reservoirs, species distribution, spillover, machine learning
 
-The study demonstrated that the distributions of reservoir species and the susceptible human population are sensitive to the changes in the climactic conditions over time. The framework of the study has potential to serve as a climate-driven, predicted risk modelling tool for rodent-borne zoonotic outbreaks globally and to gain insights of their economic burden.
 
 ## Folder Structure
 
