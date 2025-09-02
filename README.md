@@ -1,6 +1,5 @@
 # Predicted climate-driven changes in zoonotic risk of arenaviral hemorrhagic fevers in South America
 
-## Author list
 
 ### Pranav S. Kulkarni (1), Nuri Y. Flores-Perez (1), Andie H. Jian (1), Brian H. Bird (2), Christine K. Johnson (2), Marcela Uhart (2),(3), Pranav S. Pandit (1).
  - (1) Department of Population Health and Reproduction, School of Veterinary Medicine, University of California, Davis
@@ -40,3 +39,12 @@ Mammarenavirus, rodent reservoirs, species distribution, spillover, machine lear
 
 Note: There are more sub-folders which are not shown in the schema for the sake of brevity.
 ```
+## Figures
+
+![Fig1](https://github.com/EpiPandit/Kulkarni_et_al_Arenaviruses/blob/4efa071ef8471cf8f35f318fdbd2876fb2437ad9/Manuscripts/figure%20arrangements/Fig1.jpeg)
+![Fig2](https://github.com/EpiPandit/Kulkarni_et_al_Arenaviruses/blob/4efa071ef8471cf8f35f318fdbd2876fb2437ad9/Manuscripts/figure%20arrangements/Fig2.jpeg)
+![Fig3](https://github.com/EpiPandit/Kulkarni_et_al_Arenaviruses/blob/4efa071ef8471cf8f35f318fdbd2876fb2437ad9/Manuscripts/figure%20arrangements/Fig3.jpeg)
+![Fig4](https://github.com/EpiPandit/Kulkarni_et_al_Arenaviruses/blob/4efa071ef8471cf8f35f318fdbd2876fb2437ad9/Manuscripts/figure%20arrangements/Fig4.jpeg)
+![Fig5](https://github.com/EpiPandit/Kulkarni_et_al_Arenaviruses/blob/4efa071ef8471cf8f35f318fdbd2876fb2437ad9/Manuscripts/figure%20arrangements/Fig5.jpeg)
+![Fig6](https://github.com/EpiPandit/Kulkarni_et_al_Arenaviruses/blob/4efa071ef8471cf8f35f318fdbd2876fb2437ad9/Manuscripts/figure%20arrangements/Fig6.jpeg)
+
