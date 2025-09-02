@@ -3,9 +3,9 @@
 ## Author list
 
 ### Pranav S. Kulkarni (1), Nuri Y. Flores-Perez (1), Andie H. Jian (1), Brian H. Bird (2), Christine K. Johnson (2), Marcela Uhart (2),(3), Pranav S. Pandit (1).
-1 Department of Population Health and Reproduction, School of Veterinary Medicine, University of California, Davis
-2 One Health Institute, School of Veterinary Medicine, University of California, Davis
-3 Karen C. Drayer Wildlife Center, School of Veterinary Medicine, University of California, Davis
+ - (1) Department of Population Health and Reproduction, School of Veterinary Medicine, University of California, Davis
+ - (2) One Health Institute, School of Veterinary Medicine, University of California, Davis
+ - (3) Karen C. Drayer Wildlife Center, School of Veterinary Medicine, University of California, Davis
 
 
 ## Description
