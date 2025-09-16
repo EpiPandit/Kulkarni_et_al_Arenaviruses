@@ -6,7 +6,7 @@
  - (2) One Health Institute, School of Veterinary Medicine, University of California, Davis
  - (3) Karen C. Drayer Wildlife Center, School of Veterinary Medicine, University of California, Davis
 
-
+[![DOI](https://zenodo.org/badge/895904802.svg)](https://doi.org/10.5281/zenodo.17137588)
 ## Description
 
 This repository contains the source code and examples of the analyses conducted for manuscript of Kulkarni et al.
